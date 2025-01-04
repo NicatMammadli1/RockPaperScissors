@@ -1,0 +1,1 @@
+This project was made to help me understand Java programming by using fundamental ideas like arrays, loops, conditionals, and user input. Through game logic design, it improves reasoning and problem-solving abilities while laying the groundwork for more complex projects in the future.
